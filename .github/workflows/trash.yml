@@ -2,7 +2,7 @@ name: 'produce trash 🗑️'
 
 on:
   schedule:
-    - cron: '12,23,34,45 1,11,14,16,20,23 * * *'
+    - cron: '12,23,34,45,55 1,11,14,16,20,23 * * *'
 
 jobs:
   build:
