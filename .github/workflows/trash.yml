@@ -2,8 +2,9 @@ name: 'produce trash 🗑️'
 
 on:
   schedule:
-    - cron: '12,23,34,45,55 1,11,14,16,20,23 * * *'
-
+    - cron: '3,17,41 7-10,17-19,21-22 * * MON-FRI'
+    - cron: '3,17 12-15 * * SAT-SUN'
+    
 jobs:
   build:
     runs-on: ubuntu-latest
