@@ -20,7 +20,7 @@ jobs:
           python-version: '3.x'
       - name: 'Make trash commits'
         run: |
-          git config --local user.email "nf@nifalconi.com" # setup commit email
+          git config --local user.email "nigfasa@gmail.com" # setup commit email
           git config --local user.name "Nicolas Falconi" # setup commit name
           python make_commits.py # actually make the commits
       - name: 'Push changes'
