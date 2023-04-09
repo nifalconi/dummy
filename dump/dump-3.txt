@@ -1,505 +1,101 @@
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
 
