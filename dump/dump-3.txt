@@ -1,909 +1,101 @@
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-dummy
-
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-create readme.md
-
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
-updates
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
 
