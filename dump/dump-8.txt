@@ -1,909 +1,101 @@
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-
 initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
+initial commit
 
