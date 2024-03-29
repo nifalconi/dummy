@@ -1,909 +1,101 @@
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-update
-
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
 
