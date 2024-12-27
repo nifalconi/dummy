@@ -1,505 +1,101 @@
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
+update readme.md
 
