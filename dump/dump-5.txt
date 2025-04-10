@@ -1,606 +1,101 @@
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-cleanup
-
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-update readme.md
-
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-bump version
-
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
-updated readme
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
+fuck
 
